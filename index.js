@@ -10,7 +10,7 @@ module.exports = (api, options) => {
     .enforce('pre')
     .exclude
     .add(/node_modules/).end()
-    .test(/\.(js|vue)$/)
+    .test(/\.(js|vue|css|scss|sass|ts|tsx)$/)
     .use('readme-original-loader')
       .loader('readme-original-loader')
       .end()
