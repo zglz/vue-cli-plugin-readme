@@ -1,0 +1,17 @@
+{
+  "name": "vue-cli-plugin-readme",
+  "version": "0.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "readme-cache-webpack-plugin": "^0.0.4",
+    "readme-original-loader": "^0.0.4",
+    "readme-webpack-plugin": "^0.0.3"
+  }
+}
