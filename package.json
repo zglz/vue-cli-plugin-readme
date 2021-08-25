@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-readme",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "We can write markdown in any source file and provide an interactive markdown management client.",
   "homepage": "https://github.com/zglz/vue-cli-plugin-readme#readme",
   "repository": {
