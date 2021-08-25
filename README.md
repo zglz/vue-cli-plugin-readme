@@ -11,6 +11,14 @@
 
 ![](http://csdn.19991223.com/img/screenshot.png)
 
+<h2 align="center">安装方法</h2>
+
+```bash
+vue add element
+```
+
+
+
 
 启动项目后，终端会提示一个地址：http://localhost:80
 
